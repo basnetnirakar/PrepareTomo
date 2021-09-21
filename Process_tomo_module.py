@@ -11,7 +11,6 @@ import glob
 import subprocess
 import starfile
 import pandas as pd
-import mdoc_info
 import shutil
 from pathlib import Path
 
